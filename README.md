@@ -1,7 +1,7 @@
-Lighting Gale Themes
+Keycloak Themes
 ===================
 
-Here we have the keycloak modified themes for the BHIP Lighting Gale project.
+Here we have the keycloak modified themes as example project.
 
 ## Login ##
 
